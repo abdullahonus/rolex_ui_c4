@@ -1,16 +1,11 @@
-# rolex_ui_c4
+Follof for more from ig: @Countrol4Offical
 
-A new Flutter project.
+Run This Comments
 
-## Getting Started
+$flutter pub get
 
-This project is a starting point for a Flutter application.
+$flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran Görüntüsü (160)](https://user-images.githubusercontent.com/47148545/149357416-35b40e2b-d5a4-4857-ac41-720de75a6db5.png)
+![Ekran Görüntüsü (161)](https://user-images.githubusercontent.com/47148545/149357427-2c41c38e-ae3a-4cb0-90f5-a56290f09087.png)
+![Ekran Görüntüsü (163)](https://user-images.githubusercontent.com/47148545/149357437-d7dabfb2-d06a-4102-aff1-57819e1907d9.png)
